@@ -2,7 +2,7 @@ import React from 'react'
 import {GoogleLogin} from "react-google-login";
 import { refreshTokenSetup} from '../utils/refreshToken';
 import "../App.css";
-const clientid ="308988908933-av29e5a2dg6elk7lru1uqkno52m338lv.apps.googleusercontent.com";
+const clientid ="109864172924-olf4l8gk32v89jhv6jpbccu94khfdg43.apps.googleusercontent.com";
 
 
 function Login() {
